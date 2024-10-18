@@ -5,7 +5,7 @@ const { username, token, eventLimit, style, ignoreEvents } = require('../config'
 
 // Create an authenticated Octokit client
 const octokit = github.getOctokit(token);
-// Small Changes
+// Small Changes v2
 // Function to fetch starred repositories with pagination
 async function fetchAllStarredRepos() {
     let starredRepos = [];
