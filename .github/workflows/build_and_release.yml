@@ -40,7 +40,7 @@ jobs:
       run:
         shell: bash
     steps:
-      - uses: action/checkout@v4
+      - uses: actions/checkout@v4
       - name: Test index.js
         env: 
           INPUT_GITHUB_USERNAME: "Hance08"
