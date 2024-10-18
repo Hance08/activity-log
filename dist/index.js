@@ -30355,7 +30355,7 @@ const { username, token, eventLimit, style, ignoreEvents } = __nccwpck_require__
 
 // Create an authenticated Octokit client
 const octokit = github.getOctokit(token);
-// Small Changes v2
+// Small Changes v3
 // Function to fetch starred repositories with pagination
 async function fetchAllStarredRepos() {
     let starredRepos = [];
