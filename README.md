@@ -18,16 +18,78 @@ A GitHub Action that automatically updates your README file with the latest acti
 ## ✍️ Example
 
 <!--START_SECTION:activity-->
-1. ❌ Closed an issue [#4](https://github.com/TheDanniCraft/activity-log/issues/4) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-2. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa)
-3. 🔀 Merged [PR #5](https://github.com/TheDanniCraft/activity-log/pull/5) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-4. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/ae62d7baa9d8458b7b06f10cd6c30c8ee4112763)
-5. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/f8d13fb3a23046f41b8bcadc74210ff05032dcbf)
-6. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/c0582ff875abe33c694685397a22bd0e36877aaa)
-7. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/8bb6c60f5ca8a7847774690bbad2426ee3674bd6)
-8. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/8d87dc8ee0f1f7f1f142c0d5c33f63ec24d54c8a)
-9. 📥 Opened [PR #5](https://github.com/TheDanniCraft/activity-log/pull/5) in [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
-10. 📝 Committed to [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log/commit/13fe25b1695c655da2cbc03c2ac889b07534e9fa)
+1. ➕ Created a new tag [`v1.0.0`](https://github.com/Hance08/activity-log/releases/tag/v1.0.0) in [Hance08/activity-log](https://github.com/Hance08/activity-log)
+2. 📝 Committed to a private repo
+3. 📝 Committed to a private repo
+4. 📝 Committed to a private repo
+5. 📝 Committed to a private repo
+6. 📝 Committed to a private repo
+7. 📝 Committed to a private repo
+8. 📝 Committed to a private repo
+9. 📝 Committed to a private repo
+10. 📝 Committed to a private repo
+11. 📝 Committed to a private repo
+12. 📝 Committed to a private repo
+13. 📝 Committed to a private repo
+14. 📝 Committed to a private repo
+15. 📝 Committed to a private repo
+16. 📝 Committed to a private repo
+17. 📝 Committed to a private repo
+18. 📝 Committed to a private repo
+19. 📝 Committed to a private repo
+20. 📝 Committed to a private repo
+21. 📝 Committed to a private repo
+22. 📝 Committed to a private repo
+23. 📝 Committed to a private repo
+24. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/027dc6408c363bff13df589afc2849319c18b1ca)
+25. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/26e2f890aca2c0645e44a554f90fe0c74a911e1a)
+26. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+27. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/ca43a74fb5e51c238b36132f6704c3db1f4953fd)
+28. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/15fb618e8260eacadef09f92012452ef2fb2a8db)
+29. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/d6b2e4dc67b0d50a5d571f5b986e5d4c52803ed5)
+30. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/d5ff841090cc5a7b8ed42251eb4c4a020da4d2b7)
+31. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/93ee6a7ae470d42227a851e226de0934c235a727)
+32. 📝 Committed to [Hance08/activity-log](https://github.com/Hance08/activity-log/commit/2471fd564b60b4ea75885d8b328c7edaf4c8d97c)
+33. 🍴 Forked [TheDanniCraft/activity-log](https://github.com/TheDanniCraft/activity-log)
+34. 📝 Committed to a private repo
+35. 📝 Committed to a private repo
+36. 🗑️ Deleted a branch `2-as-a-repo-owner-i-want-automatically-update-readme-file-to-include-not-done-homework` in a private repo
+37. ➕ Created a new branch `2-as-a-repo-owner-i-want-automatically-update-readme-file-to-include-not-done-homework` in a private repo
+38. 🗑️ Deleted a branch `2-as-a-repo-owner-i-want-automatically-update-readme-file-to-include-not-done-homework` in a private repo
+39. ❌ Closed an issue in a private repo
+40. 📝 Committed to a private repo
+41. 🔀 Merged a PR in a private repo
+42. 📥 Opened a PR in a private repo
+43. 📝 Committed to a private repo
+44. 📝 Committed to a private repo
+45. ➕ Created a new branch `2-as-a-repo-owner-i-want-automatically-update-readme-file-to-include-not-done-homework` in a private repo
+46. 🆕 Opened an issue in a private repo
+47. 🆕 Opened an issue in a private repo
+48. 🎉 Created a new private repository
+49. ➕ Created a new branch `main` in a private repo
+50. 🆕 Opened an issue in a private repo
+51. ➕ Created a new branch `main` in a private repo
+52. 🎉 Created a new private repository
+53. ➕ Created a new branch `3-review-discrete-math` in a private repo
+54. ❌ Closed an issue in a private repo
+55. 🆕 Opened an issue in a private repo
+56. 🆕 Opened an issue in a private repo
+57. 🆕 Opened an issue in a private repo
+58. ➕ Created a new branch `1-zenhub-test` in a private repo
+59. 🆕 Opened an issue in a private repo
+60. 🆕 Opened an issue in a private repo
+61. 🆕 Opened an issue in a private repo
+62. 🆕 Opened an issue in a private repo
+63. ➕ Created a new branch `main` in a private repo
+64. 🎉 Created a new private repository
+65. 🎉 Created a new repository [Hance08/TestZenhub](https://github.com/Hance08/TestZenhub)
+66. ➕ Created a new branch [`main`](https://github.com/Hance08/TestZenhub/tree/main) in [Hance08/TestZenhub](https://github.com/Hance08/TestZenhub)
+67. ➕ Created a new branch `main` in a private repo
+68. 🎉 Created a new private repository
+69. ➕ Created a new branch `main` in a private repo
+70. 🎉 Created a new private repository
+71. ➕ Created a new branch [`main`](https://github.com/Hance08/Jira/tree/main) in [Hance08/Jira](https://github.com/Hance08/Jira)
+72. 🎉 Created a new repository [Hance08/Jira](https://github.com/Hance08/Jira)
 <!--END_SECTION:activity-->
 
 ## 📖Usage
