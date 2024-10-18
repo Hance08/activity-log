@@ -30429,7 +30429,7 @@ async function fetchAllEvents() {
 
             allEvents = allEvents.concat(events);
             page++;
-
+            // Small Changes
             // Exit loop if we have enough events
             if (allEvents.length >= eventLimit) {
                 break;
